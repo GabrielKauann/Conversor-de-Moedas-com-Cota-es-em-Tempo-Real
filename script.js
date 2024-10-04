@@ -1,4 +1,4 @@
-// Chave da API (insira sua chave aqui)
+// Chave da API 
 const apiKey = '2957696406cbbb2cd8d2a455';
 
 // URL base da API (usando a ExchangeRate-API como exemplo)
