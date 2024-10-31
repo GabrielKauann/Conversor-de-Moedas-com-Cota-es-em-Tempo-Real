@@ -9,7 +9,7 @@
 
 ## Descrição
 
-Este projeto consiste na função de converter moedas (real,euro,dolar).
+Este projeto consiste na função de converter moedas em tempo real com a aplicação de api  (real,euro,dolar).
 
 # introdução 
 este projeto tem 1 campo para digitar o valor da moeda, 2 opções de escolha da moeda e 2 botão input, 1 de converter e outro de limpar o valor.
