@@ -15,6 +15,7 @@ async function converterMoeda() {
         return;
     }
 
+    
     try {
         const resposta = await fetch(`${apiUrl}${moedaOrigem}`);
         const dados = await resposta.json();
